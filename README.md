@@ -2,7 +2,7 @@
 
 <p id="PySpark_Certificate" align="center">
 
-<img src="PySpark_Certificate.png"  width="450"  height="200">
+<img src="PySpark_Certificate.pdf"  width="450"  height="200">
     
 </p>
 Analyzed over **13 million rows** (13,758,905) of music listening data using **PySpark** on **Google Colab**.  
