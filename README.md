@@ -1,7 +1,10 @@
 # Using PySpark for Big Data Analytics
-![Colab](https://img.shields.io/badge/Notebook-Google%20Colab-yellow)
-![Colab](https://colab.research.google.com/drive/1STUlbQoy_eEACv67ydDWr6uOmjXdZJKx)
 
+<p id="PySpark_Certificate" align="center">
+
+<img src="PySpark_Certificate.png"  width="450"  height="200">
+    
+</p>
 Analyzed over **13 million rows** (13,758,905) of music listening data using **PySpark** on **Google Colab**.  
 This project demonstrates how distributed data processing can efficiently handle big data tasks such as cleaning, querying, joining, and visualizing— all at scale, using Google Colab.
 
