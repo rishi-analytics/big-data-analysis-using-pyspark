@@ -1,5 +1,12 @@
 # Using PySpark for Big Data Analytics
 
+![PySpark](https://img.shields.io/badge/Big%20Data-PySpark-orange)
+![Google Colab](https://img.shields.io/badge/Environment-Google%20Colab-yellow)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+![Dataset Size](https://img.shields.io/badge/Rows-13M%2B-blue)
+![Course](https://img.shields.io/badge/Coursera-Guided%20Project-3cb371)
+
+
 <p id="PySpark_Certificate" align="center">
 
 <img src="PySpark_Certificate.png"  width="600"  height="600">
