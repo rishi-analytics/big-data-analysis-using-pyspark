@@ -1,5 +1,6 @@
 # Using PySpark for Big Data Analytics
 
+[![Data Velho Rishi](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![PySpark](https://img.shields.io/badge/Big%20Data-PySpark-orange)
 ![Google Colab](https://img.shields.io/badge/Environment-Google%20Colab-yellow)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
