@@ -5,12 +5,14 @@
 <img src="PySpark_Certificate.png"  width="600"  height="600">
     
 </p>
+---
+
 Analyzed over **13 million rows** (13,758,905) of music listening data using **PySpark** on **Google Colab**.  
 This project demonstrates how distributed data processing can efficiently handle big data tasks such as cleaning, querying, joining, and visualizing— all at scale, using Google Colab.
 
 ---
 
-## ⚡ Skills Applied
+## Skills Gained & Applied
 
 - Big data analytics using **PySpark**
 - Data cleaning & transformation
@@ -27,6 +29,17 @@ This project demonstrates how distributed data processing can efficiently handle
 - `genre.csv` – Artist-genre mapping
 
 ---
+
+## Some images from the project
+
+<img id="picture1" src="Screenshot 2025-07-09 at 2.47.38 AM.png" alt="alt text" width="600"/>
+
+<img id="picture2" src="task_1.png" alt="alt text" width="600"/>
+
+<img id="picture1" src="merging_2dataset.png" alt="alt text" width="600"/>
+
+<img id="picture2" src="query_7.png" alt="alt text" width="600"/>
+
 
 ## Tasks Overview
 
@@ -60,10 +73,10 @@ This project demonstrates how distributed data processing can efficiently handle
 
 ## Certificate
 
-*Certificate of Completion from Coursera*  
-*(Add a link or image if desired)*
+([Certificate of Completion from Coursera](https://coursera.org/share/ee1e071b24629c33202b8de674074d1b))
 
 ---
 
-## 📂 Project Structure
+## Full data analysis code in python is found 
+[here](https://github.com/rishi-analytics/big-data-analysis-using-pyspark/blob/main/big_data_analysis_using_pyspark.ipynb)
 
