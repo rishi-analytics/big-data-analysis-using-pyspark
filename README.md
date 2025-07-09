@@ -40,13 +40,13 @@ This project demonstrates how distributed data processing can efficiently handle
 
 ## Some images from the project
 
-<img id="picture1" src="Screenshot 2025-07-09 at 2.47.38 AM.png" alt="alt text" width="600"/>
+<img id="picture1" src="PySpark_Course_Images/Screenshot 2025-07-09 at 2.47.38 AM.png" alt="alt text" width="600"/>
 
-<img id="picture2" src="task_1.png" alt="alt text" width="600"/>
+<img id="picture2" src="PySpark_Course_Images/task_1.png" alt="alt text" width="600"/>
 
-<img id="picture1" src="merging_2dataset.png" alt="alt text" width="600"/>
+<img id="picture1" src="PySpark_Course_Images/merging_2dataset.png" alt="alt text" width="600"/>
 
-<img id="picture2" src="query_7.png" alt="alt text" width="600"/>
+<img id="picture2" src="PySpark_Course_Images/query_7.png" alt="alt text" width="600"/>
 
 
 ## Tasks Overview
