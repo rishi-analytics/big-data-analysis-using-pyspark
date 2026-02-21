@@ -51,28 +51,28 @@ This project demonstrates how distributed data processing can efficiently handle
 
 ## Tasks Overview
 
-### ✅ Task 1: Setup
+### Task 1: Setup
 - Mounted Google Drive
 - Installed PySpark
 - Created Spark session
 
-### ✅ Task 2: Load & Explore Data
+### Task 2: Load & Explore Data
 - Loaded `listenings.csv`
 - Checked schema and null values
 - Dropped `date` column
 - Removed null records
 - Verified shape (~13.7M rows)
 
-### ✅ Task 3: Queries on Main Dataset
+### Task 3: Queries on Main Dataset
 - Filtered listening history by artist (e.g., Rihanna)
 - Found top users, top tracks, and top albums
 - Aggregated listening behavior
 
-### ✅ Task 4: Merge Datasets
+### Task 4: Merge Datasets
 - Loaded `genre.csv`
 - Performed **inner join** on `artist` to enrich data with genre info
 
-### ✅ Task 5: Genre Analytics
+### Task 5: Genre Analytics
 - Identified users’ favorite genres (using `Window` & `Struct` methods)
 - Counted artists per genre (pop, rock, metal, hip hop)
 - Visualized genre-wise artist distribution with bar chart
